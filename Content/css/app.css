@@ -13,11 +13,11 @@ body {
 }
 
 body.sample1 { 
-	background-image: url("../images/background.jpg") ;
+	background-image: url("../images/main1.jpg") ;
 }
 
 body.sample2 { 
-	background-image: url("../images/background2.jpg") ;
+	background-image: url("../images/main2.jpg") ;
 }
 
 body.sample3 { 
